@@ -7,4 +7,4 @@ On this repository we are showing our students activities
 Contato : (81) 3787-3667
 Instagram: https://www.instagram.com/preparapaulista/
 
-<img src="prepara cursos img.png" width="400" hight="400"/></img>
+<img src="prepara cursos img.png" align="midle" width="400" hight="400"/></img>
